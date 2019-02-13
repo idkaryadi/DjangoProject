@@ -96,6 +96,15 @@ section{
 .authoridentity{
     padding: 25px 0px;
 }
+
+/* bagian form */
+.input-new{
+    margin: 15px 0px;
+}
+
+button{
+    margin: 15px 0px;
+}
 /* bagian bawah */
 .product{
     /* padding-left: 225px; */
